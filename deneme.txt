@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 another changed from branch new1
 lets see
+=======
+Hello world
+this is the line from text file
+test merge conflict
+>>>>>>> new2
